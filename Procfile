@@ -1,0 +1,1 @@
+web gunicorn fifsearch.wsgi:application --log-file -
